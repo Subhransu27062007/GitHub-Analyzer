@@ -7,4 +7,4 @@ provides a summary of the repository such as What commits were made, What featur
 <br>
 Along with the summary, the GitHub Analyzer also provides us the information about the people who contributed more to the repository in the form of bar graph.
 
-
+##🎯 Purpose
